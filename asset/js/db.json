@@ -1,0 +1,391 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Alakazan",
+        "precio": 300,
+        "imagen": "/asset/img/productos/funkos/producto-1.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Alakazam es un Pokémon que se caracteriza por tener un gran poder mental. Posee dos cucharas, una en cada mano, que aumentan sus poderes psíquicos, a diferencia de su preevolución Kadabra, que solo tenía una."
+      },
+      {
+        "id": 2,
+        "nombre": "Caterpie",
+        "precio": 175,
+        "imagen": "/asset/img/productos/funkos/producto-2.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre deriva del inglés caterpillar (oruga, animal con el que comparte algunos rasgos). Su nombre francés, Chenipan, proviene de las palabras chenille (oruga) y pan (trepar, probablemente por su hábito de trepar a los árboles y vivir allí en sus copas)."
+      },
+      {
+        "id": 3,
+        "nombre": "Charizar",
+        "precio": 150,
+        "imagen": "/asset/img/productos/funkos/producto-3.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre es una contracción de las palabras en inglés char (carbonizar, quemar, incinerar) y lizard (lagarto). Su nombre en japonés, Lizardon, es una combinación de lizard (lagarto en inglés) y don, un sufijo que se utiliza comúnmente en dinosaurios y significa diente. Su nombre francés, Dracaufeu, proviene de las palabras draco (dragón) y feu (fuego, en francés)."
+      },
+      {
+        "id": 4,
+        "nombre": "Charmander",
+        "precio": 280,
+        "imagen": "/asset/img/productos/funkos/producto-4.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Charmander es un pequeño lagarto bípedo. Sus características de fuego son resaltadas por su color de piel anaranjado y su cola, cuya punta está envuelta en llamas. Charmander y sus evoluciones, Charmeleon y Charizard, tienen una pequeña llama en la punta de sus colas desde que nacen."
+      },
+      {
+        "id": 5,
+        "nombre": "Cubone",
+        "precio": 370,
+        "imagen": "/asset/img/productos/funkos/producto-5.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre está formado por la combinación de las palabras en inglés cub (cachorro) y bone (hueso). También podría ser one (único), y también podría derivar de la palabra alone (solo). Su nombre en japonés カラカラ (Karakara) resulta de la palabra 空 kara (vacía) y de 壳 kara (coraza). Puede proceder también de la onomatopeya からから karakara, que puede significar vacío o magro."
+      },
+      {
+        "id": 6,
+        "nombre": "Dragonite",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-6.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Dragonite es un gran Pokémon dragón, con varias características marcadas. Puede volar, escupir tanto fuego como agua o hielo, utilizar la electricidad, que genera mediante sus antenas pero el cómo lo hacen, es desconocido, pero podría ser porque el material del que están hechas permite reunir una enorme carga estática, además de eso posee una inteligencia cercana a la humana. "
+      },
+      {
+        "id": 7,
+        "nombre": "Flareon",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-7.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre proviene de la palabra flare, llamarada. Y el sufijo eon aplicado a toda la familia evolutiva de Eevee. Su nombre en japonés viene de la palabra booster que en inglés significa aumento de presión o de calor. Su nombre en francés, Pyroli, viene de la palabra pyro (fuego) y el sufijo li, que se agrega a toda la familia evolutiva de Eevee."
+      },
+      {
+        "id": 8,
+        "nombre": "Jolteon",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-8.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html"
+      },
+      {
+        "id": 9,
+        "nombre": "Horse",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-9.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre proviene de la palabra jolt (sacudir, podría ser en referencia a una sacudida eléctrica) y eon, el nombre que iba a tener originalmente Eevee.También puede ser de volt (voltio) y eon"
+
+      },
+      {
+        "id": 10,
+        "nombre": "Lapras",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-10.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"El nombre Lapras es probablemente una corrupción lingüística de su nombre japonés, Laplace. Este podría ser una referencia a Pierre Simon Laplace, un matemático que escribió varios libros basados en las propiedades matemáticas de los mares y las mareas. También podría venir del francés la place (el asiento), en referencia a como los humanos utilizan su lomo sentándose en él para trasportarse por el mar, o también puede provenir de lapa, un género de moluscos una de cuyas principales características es la concha que cargan, y place, que en inglés significa lugar, acomodar, tal vez debido a lo mismo dicho anteriormente, por cómo los humanos se sientan en su lomo. Otra posibilidad es que su nombre provenga del inglés lapis, lapislázuli, una bella gema de un color azul intenso."
+      },
+      {
+        "id": 11,
+        "nombre": "Lucario",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-11.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Lucario es un Pokémon fiel a su entrenador, se preocupa por él, pero también tiene un carácter duro y serio. Por ello, puede no resultar un Pokémon amigable a primera vista. Aun así, los Lucario tienen un gran sentido de la justicia."
+      },
+      {
+        "id": 12,
+        "nombre": "Meowth",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-12.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Es un Pokémon con apariencia de gato, y está basado en el Maneki-neko (gato de la suerte japonés). En su cabeza porta un amuleto en forma de moneda. Se trata de una antigua moneda japonesa hecha de oro llamada Koban, símbolo de la buena fortuna en Japón."
+      },
+      {
+        "id": 13,
+        "nombre": "Mew",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-13.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"El nombre de Mew procede de su nombre japonés, y proviene de una combinación del japonés myō (extraño o raro), la onomatopeya inglesa meow (maullido) y la palabra inglesa new (nuevo)."
+
+      },
+      {
+        "id": 14,
+        "nombre": "Mewtwo",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-14.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre, Mewtwo, proviene del Pokémon Mew y de two (dos en inglés) por lo que su nombre significa Mew dos, dando a entender que Mewtwo es un clon de Mew, es decir, un segundo Mew. También fonéticamente puede ser algo similar la palabra en japonés mutante (myūtanto) y en la pronunciación."
+      },
+      {
+        "id": 15,
+        "nombre": "Pichu",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-15.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Pichu tiene una piel de color amarillo pálido, con las mejillas rosadas, una cola corta negra y orejas grandes, con bordeados de color negro. Su pequeño tamaño puede despistar a cualquier entrenador novato, pero puede paralizar incluso a humanos adultos."
+      },
+      {
+        "id": 16,
+        "nombre": "Pikachu",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-16.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre proviene de la unión de las palabras en japonés pika, que es el nombre de un lagomorfo (el orden al que pertenecen conejos y liebres) de origen en Norteamérica y Asia, los ochotónidos o de pikapika, la onomatopeya japonesa que describe las chispas eléctricas, y chuchu, onomatopeya japonesa del sonido producido por un un ratón, para darle un sonido tierno."
+      },
+      {
+        "id": 17,
+        "nombre": "Ponyta",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-17.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Al nacer es un poco débil pero con el tiempo se fortalece. Tiene unas patas muy fuertes, que se desarrollan desde que nace, sus pezuñas son más fuertes que el diamante. Los entrenadores principiantes suelen usarlos, pues no son muy raros, y si se les trata bien son dóciles."
+      },
+      {
+        "id": 18,
+        "nombre": "Rattata",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-18.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Rattata es un Pokémon extremadamente común y se reproduce muy rápido, por lo que el contacto visual con uno de ellos indica la presencia de más de 40 de ellos en el área. Hacen sus madrigueras en casi cualquier parte. Son Pokémon omnívoros que pueden alimentarse con casi cualquier cosa. "
+      },
+      {
+        "id": 19,
+        "nombre": "Squirtle",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-19.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre proviene de las palabras en inglés squirt (disparar un chorro de agua) y turtle (tortuga). Su nombre en japonés es Zenigame, es simplemente la palabra japonesa para tortuga de estanque, 銭亀. Su nombre francés, Carapuce, proviene de las palabras carapace (caparazón) y puce (pulga, en referencia a su tamaño). Puce también puede ser un término cariñoso, por su apariencia tierna y dulce."
+      
+      },
+      {
+        "id": 20,
+        "nombre": "Psyduck",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-20.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre proviene de la combinación de palabras en inglés psychic (psíquico) y duck (pato). Su nombre japonés, Kodakku, viene del término japonés 子 ko (niño, que se puede interpretar como pequeño); o 小 ko (pequeño), y del inglés duck (pato), en katakana ダック dakku. Su nombre francés, Psykokwak, viene de las palabras psychotique (psicótico) y «quack» (onomatopeya del sonido de un pato)."
+      },
+      {
+        "id": 21,
+        "nombre": "Vaporeon",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-21.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre viene de vapor, referencia a su habilidad de crear una especie de niebla en la cual se esconde, y el sufijo eon, que se aplica a toda la familia evolutiva de Eevee. En japonés, su nombre viene del inglés shower (ducha), haciendo alusión a sus poderes acuáticos. Su nombre francés, Aquali, viene de la palabra aqua (agua en latín) y el sufijo li, que se agrega a toda la familia evolutiva de Eevee en el idioma francés."
+      },
+      {
+        "id": 22,
+        "nombre": "Vulpix",
+        "precio": 65,
+        "imagen": "/asset/img/productos/funkos/producto-22.jpg",
+        "categoria": "funkos",
+        "link": "./producto_visualizacion.html",
+          "descripcion":"Cuando nacen tiene una cola, la cual es blanca como su evolución Ninetales. Al crecer esta se torna rojo oscuro como el resto del cuerpo, se divide en seis y se convierte en bellos rizos. De tamaño pequeño y de patas cortas, aún así resulta sorprendentemente ágil, dentro de su cuerpo arde una llama que nunca se apaga."
+      },
+      {
+        "id": 23,
+        "nombre": "Mewtwo Box Card",
+        "precio": 600,
+        "imagen": "/asset/img/productos/cartas/box1.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"¡Aprovecha el nuevo poder de Pokémon cuando conozcas a los Pokémon en Pokémon TCG: Mewtwo- EX Box! Mewtwo- EX es un Pokémon legendario intimidante con un talento psíquico sin igual, ¡y se incluye como una impresionante carta de gran tamaño!"
+      },
+      {
+        "id": 24,
+        "nombre": "Scarlet and Violet Box Card",
+        "precio": 500,
+        "imagen": "/asset/img/productos/cartas/box2.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Ta primera expansión del Juego de Cartas Coleccionables Pokémon: Serie Escarlata y Violeta llega el 31 de marzo de 2023, ¡pero puedes visitar tu tienda de juegos local para comenzar a jugar con él antes! A partir del 17 de marzo de 2023, minoristas selectos comenzarán a vender Scarlet & Violet Build & Battle Box, brindando a los fanáticos la oportunidad de tener una batalla de Presentación y experimentar la última expansión antes de su fecha de lanzamiento oficial."
+      },
+      {
+        "id": 25,
+        "nombre": "Silver Tempest Box Card",
+        "precio": 500,
+        "imagen": "/asset/img/productos/cartas/box3.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"¡Un estruendo ominoso resuena en la distancia, y Lugia VSTAR emerge de las profundidades del océano para responder a su llamada! Un territorio desconocido espera ser explorado junto con Alolan Vulpix VSTAR, mientras que Serperior, Unown y Mawile se unen a la expedición como Pokémon VSTAR, y una batalla legendaria aguarda cuando Regieleki VMAX y Regidrago VSTAR despiertan de su sueño.  ¡Descubre asociaciones poderosas en la Galería de Entrenadores y establece un rumbo para la aventura con la expansión Pokémon TCG:  Sword & Shield-Silver Tempest !"
+      },
+      {
+        "id": 26,
+        "nombre": "Evolutions Box Card",
+        "precio": 500,
+        "imagen": "/asset/img/productos/cartas/box4.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Dale a tu colección un impulso: incluye un paquete de refuerzo que contiene 10 cartas cada una para avanzar tu colección a un nuevo nivel.Conviértete en el mejor entrenador: ¿Encontrarás nueve cuentos BREAK, Slowbro-EX, Mega Slowbro-EX, Nidoking BREAK, Mew two-EX o Draconite-EX?"
+      },
+      {
+        "id": 27,
+        "nombre": "Samurott V Card",
+        "precio": 350,
+        "imagen": "/asset/img/productos/cartas/cardtipe1.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"El Samurott de Hisui (Hisuian Samurott en inglés; ヒスイダイケンキ Hisui Daikenki en japonés) es un Pokémon de tipo agua/siniestro introducido en la octava generación, concretamente en Leyendas Pokémon: Arceus."
+      },
+      {
+        "id": 28,
+        "nombre": "Moltres Alola Card",
+        "precio": 450,
+        "imagen": "/asset/img/productos/cartas/cardtipe2.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Moltres es un legendario pájaro Pokémon que tiene la habilidad de controlar el fuego. Dicen que, si resulta herido, se sumerge en el líquido magma de un volcán para arder y curarse. Moltres es un legendario pájaro Pokémon que tiene la habilidad de controlar el fuego."
+      },
+      {
+        "id": 29,
+        "nombre": "Espeon Card",
+        "precio": 250,
+        "imagen": "/asset/img/productos/cartas/cardtipe3.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su nombre proviene de las siglas en inglés ESP (Extra Sensory Perception, percepción extrasensorial), y eon, el nombre original que iba a tener Eevee, y el sufijo que llevan todas sus evoluciones."
+      },
+      {
+        "id": 30,
+        "nombre": "Gallade V Card",
+        "precio": 350,
+        "imagen": "/asset/img/productos/cartas/cardtipe4.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Gallade  es una carta de Pokémon de tipo lucha . Es la carta n.º 181/196 y TG19/TG30 de la expansión Origen Perdido y la n.º SWSH258 de las cartas promocionales de la serie Espada y Escudo."
+      },
+      {
+        "id": 31,
+        "nombre": "Tyranitar V Card",
+        "precio": 350,
+        "imagen": "/asset/img/productos/cartas/cardtipe5.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Su poder es tan descomunal que le basta un solo brazo para derribar montañas y provocar terremotos. Tiene tanta fuerza que puede cambiar el paisaje. Su naturaleza insolente le hace ser muy egoísta. La megaevolución lo vuelve aún más violento que de costumbre."
+      },
+      {
+        "id": 32,
+        "nombre": "Typhlosion Card",
+        "precio": 100,
+        "imagen": "/asset/img/productos/cartas/cardtipe6.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Este Pokémon causa explosiones de fuego que reducen todo a cenizas. Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas."
+      },
+      {
+        "id": 33,
+        "nombre": "Desidueye V Card ",
+        "precio": 500,
+        "imagen": "/asset/img/productos/cartas/cardtipe7.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Decidueye, Pokémon pluma flecha, es de tipo tipo planta y fantasma, tiene tan buena puntería que su flecha pluma puede dar a un guijarro situado a más de cien metros. HA: Decidueye, el Pokémon pluma flecha. Un tipo planta y fantasma. Decidueye dispara las plumas de sus alas como flechas."
+      },
+      {
+        "id": 34,
+        "nombre": "Giratina V Card",
+        "precio": 250,
+        "imagen": "/asset/img/productos/cartas/cardtipe8.jpg",
+        "categoria": "cartas",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Giratina (ギラティナ Giratina en japonés) es un Pokémon legendario de tipo fantasma/dragón introducido en la cuarta generación. Es el encargado de proteger el Mundo Distorsión y la mascota del videojuego Pokémon Platino. Forma parte del trío dragón."
+      },
+      {
+        "id": 35,
+        "nombre": "Juguete Charizar",
+        "precio": 100,
+        "imagen": "/asset/img/productos/accesorios/juguete1.jpg",
+        "categoria": "accesorios",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Descripción. Da rienda suelta a todo el poder de Charizard, el Pokémon de la llama. Esta figura de lujo de 7 pulgadas incluye más de 25 sonidos únicos, luces y características de movimiento articuladas. Charizard reacciona de manera diferente a la caída, girando y muchas más combinaciones de vuelo lleno de acción."
+        
+      },
+      {
+        "id": 36,
+        "nombre": "Peluche Bulbasaur",
+        "precio": 200,
+        "imagen": "/asset/img/productos/accesorios/juguete2.jpg",
+        "categoria": "accesorios",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Bonito y tierno animal de peluche Pokémon Bulbasaur de 8 pulgadas es imprescindible para todos los fans de Pokémon.¡Tienes que atraparlos a todos! Esta figura de felpa súper suave es ideal para llevar donde quiera que vayas.El juguete de peluche Bulbasaur está inspirado en el anime Pokémon, tarjetas comerciales, Let's Go!, Sword and Shield, Scarlet and Violet y Nintendo"
+        
+      },
+      {
+        "id": 37,
+        "nombre": "Juguete Chikorita",
+        "precio": 300,
+        "imagen": "/asset/img/productos/accesorios/juguete3.jpg",
+        "categoria": "accesorios",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Chikorita es un Pokémon de tipo planta introducido en la segunda generación. Es uno de los tres Pokémon iniciales que se pueden elegir al comenzar la aventura en la región Johto, junto a Cyndaquil y Totodile."
+        
+      },
+      {
+        "id": 38,
+        "nombre": "Peluche Snorlax",
+        "precio": 500,
+        "imagen": "/asset/img/productos/accesorios/juguete4.jpg",
+        "categoria": "accesorios",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"accesorio especial de Pecha Berry que puedes utilizar para alimentar a Snorlax cuando está en modo de despertar o despertarlo de su sueño cuando está en modo de repetición"
+        
+      },
+      {
+        "id": 39,
+        "nombre": "Peluche Gengar",
+        "precio": 600,
+        "imagen": "/asset/img/productos/accesorios/juguete5.jpg",
+        "categoria": "accesorios",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"Bonito y tierno animal de peluche Pokémon Gengar de 12 pulgadas es imprescindible para todos los fans de Pokémon.Esta figura de felpa súper suave es ideal para llevar donde quiera que vayas.El juguete de peluche Gengar está inspirado en el anime Pokémon, tarjetas comerciales, Let's Go! y la serie de videojuegos Nintendo"
+        
+      },
+      {
+        "id": 40,
+        "nombre": "Juguete Arcanine",
+        "precio": 500,
+        "imagen": "/asset/img/productos/accesorios/juguete6.jpg",
+        "categoria": "accesorios",
+        "link": "./producto_visualizacion.html",
+        "descripcion":"En la exitosa serie animada Pokémon, Arcanine es conocido como el Pokémon Legendario y es conocido por su valentía ¡Esta figura en escala de 4.5 ”presenta detalles auténticos y mecanismos dinámicos únicos que permiten a Arcanine disparar su misil de fuego!"
+
+      
+      }
+     
+    ],
+    "usuarios": [
+      {
+        "correo": "prueba@prueba.com",
+        "password": "12345",
+        "id": 1
+      },
+      {
+        "correo": "prueba2@prueba.com",
+        "password": "1234567",
+        "id": 2
+      },
+      {
+        "correo": "prueba3@prueba.com",
+        "password": "Aqwe123",
+        "id": 3
+      }
+    ]
+  }
